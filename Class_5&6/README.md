@@ -4,7 +4,7 @@ Classes 5 and 6 focused on strengthening our foundational knowledge by introduci
 
 ### Class 5 & 6 Topics
 ### 1. Introduction to Lists
-We embarked on our journey into data structures with an introduction to lists. Lists are versatile and dynamic containers that allow us to store and manipulate collections of items. Understanding the fundamentals of lists lays the groundwork for more complex data structures.
+We embarked on our journey into data structures with an introduction to lists. Lists are versatile and dynamic containers that allow us to store and manipulate collections of items. Understanding the fundamentals of lists lays the groundwork for more complex data structures.We drew parallels between string and list methods, recognizing the commonality in their functionalities. List methods such as append(), extend(), insert(), and remove() have counterparts in string methods, showcasing the consistency in Python's approach to different data structures.
 
 ### 2. Advanced String Logic
 Building on our previous understanding of strings, we delved into creating more intricate logic using advanced string functions. These exercises aimed to solidify our grasp of string manipulation techniques and enhance problem-solving skills.
