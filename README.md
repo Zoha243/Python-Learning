@@ -62,4 +62,3 @@ Our learning path is organized into classes, each covering specific topics and c
 
 15. **Class 19 & Beyond:** Ongoing classes and projects to further enrich your Python skills.
 
-## Start your Python learning journey today with us and enjoy the process of becoming a proficient Python programmer! 🚀🎓
